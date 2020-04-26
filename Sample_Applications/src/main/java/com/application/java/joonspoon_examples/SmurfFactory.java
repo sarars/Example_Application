@@ -1,4 +1,4 @@
-package com.application.java.joonspoon_examples;
+package main.java.com.application.java.joonspoon_examples;
 
 public class SmurfFactory {
 
